@@ -1,3 +1,5 @@
+Paper: Fast TILs—A pipeline for efficient TILs estimation in non-small cell lung cancer ([Link](https://api.nva.unit.no/publication/01999a141922-09de1728-258f-47b5-aa4e-e468947b76b9))
+
 # This is modified repository of HoVer-Net.
 
 # HoVer-Net: Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images
