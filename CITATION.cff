@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: 'Fast TILs: A pipeline for efficient TILs estimation in non-small cell lung cancer'
+authors:
+  - family-names: "Visual Intelligence"
+    name-particle: ""
+    given-names: "SFI"
+identifiers:
+  - type: url
+    value: "https://api.nva.unit.no/publication/01999a141922-09de1728-258f-47b5-aa4e-e468947b76b9"
+keywords:
+  - tumor-infiltrating-lymphocytes
+  - nuclei-segmentation
+  - histology
+license: MIT
+repository-code: "https://github.com/SFI-Visual-Intelligence/hovernet-pipeline"
+type: software
